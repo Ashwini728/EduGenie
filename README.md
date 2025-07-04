@@ -3,6 +3,7 @@
 EduGenie is an AI-driven web platform that helps students learn faster and better by generating structured notes, quizzes, and study plans for any topic. Powered by the google/flan-t5-large model optimized with OpenVINO™, EduGenie delivers fast and intelligent content creation tailored for student needs.
 
 🎬 [Demo Video](https://drive.google.com/file/d/1diFHVzrDdstS-Mz5gfH70ao4iHssBldr/view?usp=drive_link) or [DemoVedio1](https://youtu.be/W1-bBcp-dy8?si=uOZG8PKjIr_Kp5no)
+
 Demo: Watch how EduGenie generates notes and quizzes instantly!
 
 ---
