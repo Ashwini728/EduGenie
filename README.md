@@ -71,9 +71,10 @@ cd edugenie
 
 ###  Future Scope
 
- 💡 Add multilingual support for notes and quizzes  
- 💡 Integrate cloud-based user authentication and history tracking  
- 💡 Extend quiz types: true/false, short answers, explanations  
+  Add multilingual support for notes and quizzes  
+  Integrate cloud-based user authentication and history tracking  
+  Extend quiz types: true/false, short answers, explanations  
+  
 ---
 ### Team
 Ashwini Anil,
