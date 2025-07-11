@@ -52,7 +52,7 @@ Optimized Inference with OpenVINO for Fast Results
 ```bash
 git clone https://github.com/Ashwini728/edugenie.git
 cd edugenie
-
+```
 ---
 ##  Project Summary
 
