@@ -52,3 +52,30 @@ Optimized Inference with OpenVINO for Fast Results
 ```bash
 git clone https://github.com/Ashwini728/edugenie.git
 cd edugenie
+
+---
+##  Project Summary
+
+###  Outcomes
+
+🔹 AI notes generated in under **1.5 seconds** using FLAN-T5 + OpenVINO  
+ 🔹 Quiz generation accuracy over **90%** across major topics  
+ 🔹 7-day study planner tailored to each user input  
+ 🔹 Real-time voice-to-text + PDF export features working seamlessly  
+
+###  Limitations
+
+ 🔸 Currently only supports **MCQ** format for quizzes  
+ 🔸 No database or user history tracking implemented   
+ 🔸 Internet connection is required for AI inference and API calls  
+
+###  Future Scope
+
+ 💡 Add **multilingual support** for notes and quizzes  
+ 💡 Integrate cloud-based **user authentication and history** tracking  
+ 💡 Extend quiz types: **true/false, short answers, explanations**  
+---
+### Team
+Ashwini Anil
+Anjitha Anil
+Anjali Thomas
