@@ -76,6 +76,6 @@ cd edugenie
  💡 Extend quiz types: **true/false, short answers, explanations**  
 ---
 ### Team
-Ashwini Anil
-Anjitha Anil
+Ashwini Anil,
+Anjitha Anil,
 Anjali Thomas
